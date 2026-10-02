@@ -1,0 +1,14 @@
+{
+  "status": "실행 후 기록",
+  "experiment": null,
+  "promptFile": null,
+  "promptSha256": null,
+  "provider": null,
+  "requestedModelId": null,
+  "returnedModelIdOrVersion": null,
+  "executedAtUtc": [null, null],
+  "parameters": {"temperature": null, "topP": null, "maxOutputTokens": null, "seed": null, "thinking": null},
+  "unsupportedOrUnexposedParameters": [],
+  "outputs": [null, null],
+  "checks": {"형식 준수": null, "금지 항목 없음": null, "길이": null, "두 번 돌려 같은가": null}
+}
