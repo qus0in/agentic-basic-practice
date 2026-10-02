@@ -1,0 +1,10 @@
+{
+  "name": "practice-security",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@10.34.6",
+  "scripts": {
+    "test": "node --test --test-reporter=tap test.mjs",
+    "verify": "pnpm test && node verify.mjs"
+  }
+}

@@ -5,6 +5,7 @@
 | [교안 실습 검증](https://abc.noco.kr/cases/practice-check) | [start·done](cases/practice-check/README.md) | 제공 |
 | [검증](https://abc.noco.kr/harness-advanced/verification) | [verification](harness-advanced/verification/README.md) | 제공 |
 | [skills](https://abc.noco.kr/harness-basics/skills) | [skills](harness-basics/skills/README.md) | 제공 |
+| [security](https://abc.noco.kr/harness-basics/security) | [security](harness-basics/security/README.md) | 제공 |
 
 AI 에이전트와 함께 교안의 검증 절차를 실행하는 공개 실습 저장소다. Node.js 24와 pnpm 10을 사용한다. MIT 라이선스의 공개 템플릿 저장소다. 현재 제공하는 실습은 위 표에서 확인한다.
 
