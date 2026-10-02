@@ -4,6 +4,7 @@
 |---|---|---|
 | [교안 실습 검증](https://abc.noco.kr/cases/practice-check) | [start·done](cases/practice-check/README.md) | 제공 |
 | [검증](https://abc.noco.kr/harness-advanced/verification) | [verification](harness-advanced/verification/README.md) | 제공 |
+| [skills](https://abc.noco.kr/harness-basics/skills) | [skills](harness-basics/skills/README.md) | 제공 |
 | [컨텍스트와 프롬프트](https://abc.noco.kr/concepts/context-prompt) | [prompt-lab](practice/prompt-lab/README.md) | 프롬프트·기록 양식 제공, 모델 결과 미실행 |
 | [settings](https://abc.noco.kr/harness-basics/settings) | [settings](harness-basics/settings/README.md) | 제공 |
 | [memory](https://abc.noco.kr/harness-basics/memory) | [memory](harness-basics/memory/README.md) | 제공 |
