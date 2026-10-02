@@ -1,0 +1,8 @@
+packages:
+  - .
+allowBuilds:
+  esbuild: true
+  playwright-chromium: true
+# Twoslash's client patch expects the component shape from this FloatingVue release.
+overrides:
+  floating-vue: 5.2.2
