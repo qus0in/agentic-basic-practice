@@ -2,6 +2,8 @@
 
 교안: [skills](https://abc.noco.kr/harness-basics/skills). 「SKILL.md 구조」·「Agent Skills 공식 사양」·스킬 공유의 폴더와 링크를 확인하는 실습이다.
 
+`start`에는 `.agents/skills/commit/SKILL.md`가 이미 들어 있으므로, 아래에서는 `.claude` 폴더를 만들고 링크만 연결한다.
+
 ```sh
 cd harness-basics/skills
 pnpm test
