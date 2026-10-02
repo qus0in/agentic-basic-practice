@@ -1,0 +1,17 @@
+{
+  "name": "practice-slides",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "slidev slides.md",
+    "build": "slidev build slides.md",
+    "test": "node --test --test-reporter=tap test.mjs",
+    "verify": "pnpm test && pnpm build && node verify.mjs"
+  },
+  "devDependencies": {
+    "@slidev/cli": "53.0.0",
+    "@slidev/theme-default": "0.25.0",
+    "playwright-chromium": "1.63.0"
+  },
+  "packageManager": "pnpm@10.34.6"
+}
